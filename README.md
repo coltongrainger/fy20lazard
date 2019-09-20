@@ -1,15 +1,15 @@
 ---
-title: TODO
+title: README
 author: Colton Grainger
 date: 2019-09-19
 revised:
 ---
 
-## examples
+# ideas for talk on Lazard's theorem
 
 ![](2019-09-19-examples.png)
 
-## selections
+## clippings
 
 RICHARD GREEN
 
