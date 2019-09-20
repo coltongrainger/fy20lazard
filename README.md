@@ -5,13 +5,35 @@ date: 2019-09-19
 revised:
 ---
 
-# ideas for talk on Lazard's theorem
+Hiro Lee Tanaka's Fall 2014 Math 230a
+
+> As part of the definition of graded algebra, m must be associative.
+> A graded algebra is unital if it admits a unit 1 ∈ A 0 . 8
+> An example is the deRham cohomology algebra of any smooth
+> manifold.
+> Another example is the deRham algebra of smooth differential
+> forms on a manifold. (I.e., what we have before taking cohomol-
+> ogy.) This has more structure than just that of a graded algebra;
+> we’ll come back to it in another homework.
+> Another example is the polynomial ring in one generator,
+> R[x], where A k is the vector space of homogeneous degree k poly-
+> nomials. A variant is R[y], where A 2k is the vector space of ho-
+> mogeneous degree k polynomials, and A odd is zero. (So y is in
+> “degree” 2.) **Depending on your taste, R[y] is isomorphic to the
+> deRham cohomology ring of CP ∞ . If your taste is different, then
+> the power series ring R[[y]] is rather isomorphic to the deRham
+> cohomology ring of CP ∞ .**
+> A map between graded algebras is a linear map f : A k → B k
+> for every k such that f (m A (a, a � )) = m B (f a, f a � ). A map between
+> unital graded algebras further sends the unit to the unit.
+> We let GrAlg R be the category of unital graded algebras over
+> R, where morphisms are maps of graded unital algebras.
+
+nLab concept map
 
 ![](2019-09-19-examples.png)
 
-## clippings
-
-RICHARD GREEN
+Richard Green office hours
 
 > consider the inverse limit to define an -adic ring 
 
