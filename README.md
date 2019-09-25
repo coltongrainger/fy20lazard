@@ -5,6 +5,10 @@ date: 2019-09-19
 revised:
 ---
 
+<https://ncatlab.org/nlab/show/filtered+limit>
+
+<https://mathoverflow.net/questions/196055/what-is-the-explicit-ideal-wrt-the-lazard-ring-generated-by-the-associativity>
+
 Hiro Lee Tanaka's Fall 2014 Math 230a
 
 > As part of the definition of graded algebra, m must be associative.
@@ -141,8 +145,8 @@ Ravenel's Green Book Complex Cobordism and Stable Homotopy Groups of Spheres
 
 ## some videos to watch
 
-2013-02-27-glasman-a-review-of-stable-homotopy-theory.mp4
-2013-02-27-nardin-formal-group-laws-and-complex-cobordism.mp4
-2013-03-06-brantner-p-typical-formal-group-laws-and-brown-peterson-homology.mp4
-2018-05-16-hill-mu-and-formal-group-laws.mp4
-2018-05-16-wilson-bp-landweber-exactness-and-other-examples.mp4
+- 2013-02-27-glasman-a-review-of-stable-homotopy-theory.mp4
+- 2013-02-27-nardin-formal-group-laws-and-complex-cobordism.mp4
+- 2013-03-06-brantner-p-typical-formal-group-laws-and-brown-peterson-homology.mp4
+- 2018-05-16-hill-mu-and-formal-group-laws.mp4
+- 2018-05-16-wilson-bp-landweber-exactness-and-other-examples.mp4
