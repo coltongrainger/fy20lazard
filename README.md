@@ -53,7 +53,7 @@ ON THE FORMAL GROUP LAWS OF UNORIENTED AND COMPLEX COBORDISM THEORY by daniel qu
 > In this note we outline a connection between the generalized co-
 > homology theories of unoriented cobordism and (weakly-) complex
 > cobordism and the theory of formal commutative groups of one vari-
-> able [4], [5]. This connection allows us to apply Carrier's theory of
+> able [4], [5]. This connection allows us to apply Cartier's theory of
 > typical group laws to obtain an explicit decomposition of complex
 > cobordism theory localized at a prime p into a sum of Brown-Peterson
 > cohomology theories [ l ] and to determine the algebra of cohomology
